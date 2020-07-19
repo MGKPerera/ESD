@@ -6,6 +6,7 @@ Pasta
 Bread
 Chicken fry
 
-
+cake
+pizza
 
 Thank you!!
